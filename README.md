@@ -1,5 +1,9 @@
-Aqui se encontra arquivos, fotos, e o sistema feito.
-Aviso: quando o banco de dados não esta ativado se você entra na web/pagina não vai funciona pra você fazer pedidos mas tera conteudo pra você ler bem esta nas fotos se não quiser entrar relaxa.
+NUTRI-O DELIVERY
+Desenvolvimento de um Sistema Web Integrado para um Negócio Fictício,
+com Ênfase em Qualidade, Dados, Usabilidade e Comunicação Organizacional
+
+
+tem como objetivo apresentar o desenvolvimento do sistema Nutri-O Delivery, um projeto integrado que simula a criação de um sistema web para uma empresa fictícia de delivery de marmitas saudáveis. O projeto foi desenvolvido no contexto do PIM III do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da Universidade Paulista (UNIP), integrando as disciplinas de Engenharia de Software Ágil, Modelagem de Banco de Dados, Programação Orientada a Objetos com C#, Desenvolvimento Web Responsivo, UX e UI Design, Machine Learning e Análise de Dados, Comunicação, Liderança, Negociação e LIBRAS.
 
 Não vou extender mais do que o necessario peço perdão pela falta de formalidade mas e isso... o conteudo esta aqui e so ver pessoalmente do que ficar lendo a descrição ou essa nota.
 
